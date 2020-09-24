@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="right" alt="Justin's Github Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=justin-ygg&theme=dark&show_icons=true">
+
 🏢 I’m currently working on DiDi
 
 🚀 I use daily:
@@ -24,8 +26,6 @@ Here are some ideas to get you started:
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   
 
-![](https://github-readme-stats.vercel.app/api?username=justin-ygg&theme=dark&show_icons=true)
-
-# Read my recent blog's
+**Read my recent blog's**
 
 https://www.mxtsing.com

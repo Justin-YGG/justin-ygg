@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🏢 I’m currently working on DiDi
+
 🚀 I use daily:
   ![Go](https://img.shields.io/badge/-Go-black?style=plastic&logo=go)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
@@ -23,7 +24,7 @@ Here are some ideas to get you started:
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   
 
-![](https://github-readme-stats.vercel.app/api?username=justin-ygg&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=justin-ygg&theme=dark&show_icons=true)
 
 # Read my recent blog's
 
